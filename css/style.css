@@ -76,7 +76,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-    background: url('/images/cattan-logo-gold-1.png') no-repeat;
+    background: url('../images/cattan-logo-gold-1.png') no-repeat;
   background-size:contain;
   background-position: right;  
 }
